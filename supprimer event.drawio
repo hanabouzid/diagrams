@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T18:37:00.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="6sVoamesgTxEnbr6b6W_" version="13.6.4" type="github"><diagram id="sMSxnryvudzH2rJh1i5n" name="Page-1">7Vpbc+o2EP41TJ9OxsY2l0cgl7aTzmSaaXPOo7AF1kSWXFkm0F/flS1fZYgPCSRD8xDiXUsr69tvLzIMnEW0vRMoDv/gAaaDoRVsB871YDicjCbwqRS7XOFadq5YCxLkqprikfyLtdLS2pQEOGkMlJxTSeKm0ueMYV82dEgI/tIctuK0uWqM1thQPPqImtonEshQa8eWVd34FZN1WCxtF3ciVIzWiiREAX+pqZybgbMQnMv8KtouMFXgFcDk82733C2fTGAm+0xAm/nj7z8WgPP909O3v+jTne1+01Y2iKZ6xwNntgjxSvnsl8HCGcym/6QkxnoPclcgA9uJ1WUa0XuywpQwkOYxFiTCEgu4Q7X6odLNX0Ii8WOMfDX1BSgDulBGFCQbLsGNEsEUUcqUojghy2xVCzQC+6lIyAb/iZOcLUrLU6lWWpQsyIbylAU40KZK+K3MbkR8fU3REtM58p/X2YQFp1wtz3i2oUQK/lz6XhlawTPeoohQRem/sQgQQ1qt+WsDiHNEyZqB4IN7sq1rpLGQeLvXhXZJDIgozAE2sYMhxYSCXGU05eJLjZrFkLDOymGhRToe1qXtijFwoUnzEwQadhFoliQkkQg2BbNh+xSwwJl0y/00+eLSJ+CSM/p0XHJMLrWZUvNvzIFa2SN484F33SIMFzLka84QrVOmF277eb4XTNdrYFkC1wDTxNI5FZLuxSA56ofk8FRIepeCZAnbRyE5MpB0oVTgrRSICOgvLIpU04Gkug6yj7z/WKZQOUYoUvmdLZO4xKzmAxxA26bFCuabSluvDEU6pXglVVqGEkLY+j6TrlW+xSyYqeYRxCXl/nOjAFjZAEDkuzaXCT/0nfzJ1OMc4UtobpFY40PjvG6fC0yRhErWbIA7XKinPiiiVlzxmrXAnrZIkPBU+FhPqngAIKFdbZim/95lxl7nMhWrcoMVx8odHk+78cUE8EenwomBpNcRwAmitIxgkUdwyghnXzHcoOSpY7hs6E4bw8UyJ43h6aXEsPPRRbhYrAblqBXE6oPxqDuE/68hOz1LyJ6n7A7PUXZts90Dnt1xvs4ItkAUvI0EXM4efjN49fVC4PwvBEbTT/dCYNjxevLTJP6c4b0zf8/urV213w/Lz9wI/xyWbic1z4ilbWIJmM1Ak0pCSYJFUUgjLluFdIMJPQS8go/4iM50iC+5lFCNO6tjj6q3J+ZryE00Sm+sZXb7DNmz/zQMudb0yjtsKi/Xhql3q13mSUcVL+3AmLNE+RMz9URpQPhb3cljsOXMA5SEZUWB2zrhT5S0JVL1PdaVraWs8bmaaul6W3RIStjVhFp89m2U9lDmjfxwrVHTqaPxcfywXYMfbVOn5od5HnFUE802fJeHfvYmC0eIBeVROEnjWLlC3U87DsOHG+1LSBCG34zGoXeKsK3Dhk5MgKF5ihqrBIH9EAv1pzigvz3d5P8YjrJvwF55B3JiP/c46ewrxe9PiLYX3aPpYHSuZ6aD+XXLJKODhA0w3QwkygpbcREBZlBCirxwFp68XmHekUF73oi8kS1jt+XkY/uLUfuLzzN3F0PzZAxlfFavD3s48ZUrKqdN3itXtA2d2vtmbwlbg7NDl8OLpiHXfiUBIwl47RelxyYBw9CpaWC2kLZ9gTQ40VmilQ289g8p+tLAcV4xdDQNQKx+2pcPr34g6dz8Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-26T19:37:47.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="sME9BZAsZS7vb7rj1nXO" version="13.6.4" type="github">
+  <diagram id="sMSxnryvudzH2rJh1i5n" name="Page-1">
+    <mxGraphModel dx="868" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="avBSJYCgriLWW-UlWG14-1" value=":Chef d&#39;équipe" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="40" width="100" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-2" value=":Assistant intelligent Focus" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="100" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="avBSJYCgriLWW-UlWG14-2" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="avBSJYCgriLWW-UlWG14-2" vertex="1">
+          <mxGeometry x="45" y="160" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="avBSJYCgriLWW-UlWG14-2" vertex="1">
+          <mxGeometry x="45" y="210" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-6" value="4:extraire la date de début&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="avBSJYCgriLWW-UlWG14-2" target="avBSJYCgriLWW-UlWG14-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="avBSJYCgriLWW-UlWG14-2" vertex="1">
+          <mxGeometry x="45" y="260" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-8" value="5:extraire la salle de réunion&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="avBSJYCgriLWW-UlWG14-2" target="avBSJYCgriLWW-UlWG14-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="avBSJYCgriLWW-UlWG14-2" vertex="1">
+          <mxGeometry x="45" y="310" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-10" value="6:extraire le nom de réunion" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="avBSJYCgriLWW-UlWG14-2" target="avBSJYCgriLWW-UlWG14-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-16" value=":Google Calendar API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="690" y="40" width="100" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="avBSJYCgriLWW-UlWG14-16" vertex="1">
+          <mxGeometry x="45" y="360" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="b9edvNDfN_iO8WnnK5kI-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="avBSJYCgriLWW-UlWG14-16">
+          <mxGeometry x="40" y="440" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-17" value="1: utiliser le mot de réveil" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="150" y="140" as="sourcePoint" />
+            <mxPoint x="409.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-18" value="2:réponse en audio" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.1;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406" y="167" as="sourcePoint" />
+            <mxPoint x="149.5" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-19" value="3:envoyer la demande de supprimer un&amp;nbsp; réunion" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="149.5" y="200" as="sourcePoint" />
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-20" value="7:rechercher l&#39;événement&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" target="avBSJYCgriLWW-UlWG14-16" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="490" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-24" value="8:retourner les informations de l&#39;événement&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="avBSJYCgriLWW-UlWG14-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="440" as="sourcePoint" />
+            <mxPoint x="660" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-26" value="9:supprimer l&#39;événement" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1" source="avBSJYCgriLWW-UlWG14-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="420" y="480" as="sourcePoint" />
+            <mxPoint x="730" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-28" value="10:événement supprimé" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.4;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="avBSJYCgriLWW-UlWG14-2" edge="1" source="b9edvNDfN_iO8WnnK5kI-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="520" as="sourcePoint" />
+            <mxPoint x="660" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avBSJYCgriLWW-UlWG14-29" value="11:événement supprimé" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="avBSJYCgriLWW-UlWG14-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="530" as="sourcePoint" />
+            <mxPoint x="330" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9edvNDfN_iO8WnnK5kI-2" value="[événement trouvé]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b9edvNDfN_iO8WnnK5kI-5" value="[sinon]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b9edvNDfN_iO8WnnK5kI-8" value="événement n&#39;est pas trouvé" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="avBSJYCgriLWW-UlWG14-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="600" as="sourcePoint" />
+            <mxPoint x="660" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9edvNDfN_iO8WnnK5kI-1" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="670" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="b9edvNDfN_iO8WnnK5kI-4" value="" style="endArrow=none;dashed=1;html=1;exitX=0;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b9edvNDfN_iO8WnnK5kI-1" target="b9edvNDfN_iO8WnnK5kI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="610" as="sourcePoint" />
+            <mxPoint x="220" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9edvNDfN_iO8WnnK5kI-10" value="événement n&#39;est pas trouvé&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="avBSJYCgriLWW-UlWG14-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="620" as="sourcePoint" />
+            <mxPoint x="330" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
