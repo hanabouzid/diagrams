@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T19:16:02.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.4" etag="ZsbO-HvQ9uQkNOEX9NmG" type="github"><diagram id="vhmoDMPL0fvR574YdhKA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-26T20:37:58.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="L2wrmQ2pwPe9Ujh15_fw" version="13.6.4" type="github">
+  <diagram id="vhmoDMPL0fvR574YdhKA" name="Page-1">
+    <mxGraphModel dx="1108" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-1" value=":Chef d&#39;équipe" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="100" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-2" value=":Assistant intelligent Focus" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="100" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hpK47zPQc2Vl8OK8Z2gS-2">
+          <mxGeometry x="45" y="100" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hpK47zPQc2Vl8OK8Z2gS-2">
+          <mxGeometry x="45" y="160" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hpK47zPQc2Vl8OK8Z2gS-2">
+          <mxGeometry x="45" y="210" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-6" value="4:extraire la date de début&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="hpK47zPQc2Vl8OK8Z2gS-2" target="hpK47zPQc2Vl8OK8Z2gS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hpK47zPQc2Vl8OK8Z2gS-2">
+          <mxGeometry x="45" y="260" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-8" value="5:extraire la salle de réunion&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="hpK47zPQc2Vl8OK8Z2gS-2" target="hpK47zPQc2Vl8OK8Z2gS-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hpK47zPQc2Vl8OK8Z2gS-2">
+          <mxGeometry x="45" y="310" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-10" value="6:extraire le nom de réunion" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="hpK47zPQc2Vl8OK8Z2gS-2" target="hpK47zPQc2Vl8OK8Z2gS-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-11" value=":Google Calendar API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="40" width="100" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hpK47zPQc2Vl8OK8Z2gS-11">
+          <mxGeometry x="45" y="360" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hpK47zPQc2Vl8OK8Z2gS-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hpK47zPQc2Vl8OK8Z2gS-11">
+          <mxGeometry x="45" y="440" width="10" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
