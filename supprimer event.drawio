@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T09:25:23.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="94k5Zz9yTUlJNgUBS_Z_" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T09:30:20.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="3qERRDzrNgmHy3ytF8Oa" version="13.6.5" type="github">
   <diagram id="sMSxnryvudzH2rJh1i5n" name="Page-1">
     <mxGraphModel dx="852" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
             <mxPoint x="149.5" y="167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="avBSJYCgriLWW-UlWG14-19" value="3:demander de supprimer un&amp;nbsp; réunion" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+        <mxCell id="avBSJYCgriLWW-UlWG14-19" value="3:demander de supprimer une&amp;nbsp; réunion" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="149.5" y="200" as="sourcePoint" />
             <mxPoint x="410" y="200" as="targetPoint" />
