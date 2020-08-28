@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T11:11:03.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="r8inFO3FXmfJHqVCPmru" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T13:55:32.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="TlkAo3c-JW9kwvaD8kGN" version="13.6.5" type="github">
   <diagram id="vhmoDMPL0fvR574YdhKA" name="Page-1">
     <mxGraphModel dx="723" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="3PBeAsnSOXcV4ztO4AQP-6" value="[clé vocal=nom d&#39;une salle ]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-8" value="rechercher&amp;nbsp; tous les événements dans cette salle&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="3PBeAsnSOXcV4ztO4AQP-10" parent="1">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-8" value="5:rechercher&amp;nbsp; tous les événements dans cette salle&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="3PBeAsnSOXcV4ztO4AQP-10" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="310" as="sourcePoint" />
             <mxPoint x="730" y="310.0000000000001" as="targetPoint" />
@@ -63,13 +63,13 @@
         <mxCell id="3PBeAsnSOXcV4ztO4AQP-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="735" y="310" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-11" value="retourner la liste des événements" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-11" value="6:retourner la liste des événements" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="340" as="sourcePoint" />
             <mxPoint x="410" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-13" value="citer les événements avec leurs détails" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-13" value="7:citer les événements avec leurs détails" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="350" as="sourcePoint" />
             <mxPoint x="150" y="350" as="targetPoint" />
@@ -78,7 +78,7 @@
         <mxCell id="3PBeAsnSOXcV4ztO4AQP-15" value="[clé vocal= date ]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="390" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-20" value="rechercher tous les événements à cette date" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3PBeAsnSOXcV4ztO4AQP-21">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-20" value="8:rechercher tous les événements à cette date" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3PBeAsnSOXcV4ztO4AQP-21">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="420" y="420" as="sourcePoint" />
             <mxPoint x="730" y="420" as="targetPoint" />
@@ -87,13 +87,13 @@
         <mxCell id="3PBeAsnSOXcV4ztO4AQP-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="735" y="420" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-25" value="retourner la liste des événements" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.3;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3PBeAsnSOXcV4ztO4AQP-21">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-25" value="9:retourner la liste des événements" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.3;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3PBeAsnSOXcV4ztO4AQP-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="449" as="sourcePoint" />
             <mxPoint x="410" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-28" value="citer les détails des événements trouvés" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.097;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3PBeAsnSOXcV4ztO4AQP-5">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-28" value="10:citer les détails des événements trouvés" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.097;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3PBeAsnSOXcV4ztO4AQP-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="460" as="sourcePoint" />
             <mxPoint x="200" y="441" as="targetPoint" />
@@ -105,17 +105,17 @@
         <mxCell id="3PBeAsnSOXcV4ztO4AQP-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="735" y="540" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-31" value="rechercher les événements à venir" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=0.472;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="3PBeAsnSOXcV4ztO4AQP-30" parent="1" source="3PBeAsnSOXcV4ztO4AQP-5">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-31" value="11:rechercher les événements à venir" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=0.472;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="3PBeAsnSOXcV4ztO4AQP-30" parent="1" source="3PBeAsnSOXcV4ztO4AQP-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-32" value="retourner la liste des événements" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=0.458;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="3PBeAsnSOXcV4ztO4AQP-30" parent="1" target="3PBeAsnSOXcV4ztO4AQP-5">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-32" value="12:retourner la liste des événements" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=0.458;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="3PBeAsnSOXcV4ztO4AQP-30" parent="1" target="3PBeAsnSOXcV4ztO4AQP-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3PBeAsnSOXcV4ztO4AQP-33" value="citer les détails des événements à venir" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.097;entryY=0.935;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.444;exitY=0.935;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3PBeAsnSOXcV4ztO4AQP-5" target="3PBeAsnSOXcV4ztO4AQP-5">
+        <mxCell id="3PBeAsnSOXcV4ztO4AQP-33" value="13:citer les détails des événements à venir" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.097;entryY=0.935;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.444;exitY=0.935;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3PBeAsnSOXcV4ztO4AQP-5" target="3PBeAsnSOXcV4ztO4AQP-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="550" as="sourcePoint" />
             <mxPoint x="330" y="550" as="targetPoint" />
