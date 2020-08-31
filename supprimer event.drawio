@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T09:30:20.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="3qERRDzrNgmHy3ytF8Oa" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T18:22:07.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="hosxxwUTB4Uzw--72mYe" version="13.6.5" type="github">
   <diagram id="sMSxnryvudzH2rJh1i5n" name="Page-1">
-    <mxGraphModel dx="852" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="avBSJYCgriLWW-UlWG14-1" value=":Chef d&#39;équipe" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="100" y="40" width="100" height="1200" as="geometry" />
+          <mxGeometry x="100" y="40" width="100" height="660" as="geometry" />
         </mxCell>
         <mxCell id="avBSJYCgriLWW-UlWG14-2" value=":Assistant intelligent Focus" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="100" height="1200" as="geometry" />
+          <mxGeometry x="360" y="40" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="avBSJYCgriLWW-UlWG14-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="avBSJYCgriLWW-UlWG14-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="avBSJYCgriLWW-UlWG14-16" value=":Google Calendar API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="690" y="40" width="100" height="1200" as="geometry" />
+          <mxGeometry x="690" y="40" width="100" height="650" as="geometry" />
         </mxCell>
         <mxCell id="avBSJYCgriLWW-UlWG14-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="avBSJYCgriLWW-UlWG14-16" vertex="1">
           <mxGeometry x="45" y="360" width="10" height="220" as="geometry" />
